@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
             >
               Hi, I'm D Sudha Varshini.<br />
               <span className="bg-gradient-to-r from-indigo-500 to-purple-600 dark:from-indigo-400 dark:to-purple-500 text-transparent bg-clip-text">
-                I am a FrontEnd Developer
+                Stuent, Anurag University
               </span>
             </motion.h1>
 
